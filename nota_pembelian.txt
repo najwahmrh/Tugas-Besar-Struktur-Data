@@ -1,0 +1,14 @@
+||==================================================||
+|                 NOTA PEMBELIAN                    |
+||==================================================||
+Nama Pelanggan      : Deka
+Produk Roti         : Donat
+Harga Satuan        : 4000
+Jumlah Produk       : 1
+Total Harga         : 4000
+Dilayani Oleh       : Najwa
+||==================================================||
+
+Masukkan Nominal Pembayaran: 5000
+Kembalian               : 1000
+||==================================================||
