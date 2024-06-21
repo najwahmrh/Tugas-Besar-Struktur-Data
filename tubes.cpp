@@ -26,7 +26,7 @@ void daftar_pelayan() {
     int pilih_pelayan;
     cout << endl;
     cout << "||==================================================||" << endl;
-    cout << "||          WELCOME TO TOKO ROTI KAMI              ||" << endl;
+    cout << "||          WELCOME TO TOKO ROTI KAMI               ||" << endl;
     cout << "||==================================================||" << endl;
     cout << "\tDAFTAR NAMA PELAYAN" << endl;
     cout << "\t1. Najwa " << endl;
@@ -60,9 +60,9 @@ pelayan:
 
 void pilih_produk() {
     int pilihan_produk;
-   cout << "|=====================MY CAKES===============|" << endl;
+   cout << "|===================MY CAKES=================|" << endl;
    cout << "|1. Roti Abon                        Rp.7.000|" << endl;
-   cout << "|2. Roti Sirkaya                     Rp.5.000|" << endl;
+   cout << "|2. Roti Srikaya                     Rp.5.000|" << endl;
    cout << "|3. Roti Pisang                      Rp.5.000|" << endl;
    cout << "|4. Roti Sisir                       Rp.4.000|" << endl;
    cout << "|5. Bolu Kukus                       Rp.3.000|" << endl;
@@ -86,7 +86,7 @@ pilproduk:
             penjualan.harga_satuan = 7.000;
             break;
         case 2:
-            penjualan.jenis_produk = "Roti Sirkaya";
+            penjualan.jenis_produk = "Roti Srikaya";
             penjualan.harga_satuan = 5000;
             break;
         case 3:

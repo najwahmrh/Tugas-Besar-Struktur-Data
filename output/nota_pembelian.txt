@@ -1,0 +1,8 @@
+
+Masukkan Nominal Pembayaran: 1
+Kembalian               : -19999
+||==================================================||
+
+Masukkan Nominal Pembayaran: 1
+Kembalian               : 1
+||==================================================||
